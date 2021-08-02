@@ -15,7 +15,7 @@ Especializando em desenvolvimento, buscando a área de web/mobile e futuramente 
 <strong>Graduação:</strong> Análise e Desenvolvimento de Sistemas ~ Estácio (cursando 2º semestre). <br>
 <strong>Idioma:</strong> Português (fluente) e Inglês (avançado). <br>
 <strong>Cidade:</strong> Goiânia - GO (disponibilidade de mudança de estado). <br>
-<strong>Aprendendo:</strong> CSS, JavaScript e Python. <br>
+<strong>Aprendendo:</strong> CSS, JavaScript, PHP e Python. <br>
 <strong>E-mail:</strong> joubert.kjc@gmail.com
 
 ##
