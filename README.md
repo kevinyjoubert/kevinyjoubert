@@ -4,9 +4,9 @@
 
 <a href="https://www.linkedin.com/in/keviny-joubert-2992b8b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-Eu estou atualmente trabalhando como Analista de Sistema na parte de back-end (PHP). Trabalhei 6 anos como técnico de TI, na parte de microcomputadores, suporte a sistemas e desenvolvimento de batch, vbs e planilhas.
+Eu estou atualmente trabalhando como Analista de Sistemas na parte de back-end (PHP, PL/SQL, Python e JavaScript). Trabalhei 6 anos como técnico de TI, na parte de microcomputadores, suporte a sistemas e desenvolvimento de batch, vbs e planilhas.
 
-Especializando em desenvolvimento, buscando a área de web/mobile e futuramente abrangir o leque de conhecimento!
+Especializando em desenvolvimento, buscando a área de web/mobile e futuramente abrangir o leque de conhecimento para devops!
 
 ##
 
@@ -15,7 +15,7 @@ Especializando em desenvolvimento, buscando a área de web/mobile e futuramente 
 <strong>Graduação:</strong> Análise e Desenvolvimento de Sistemas ~ Estácio (cursando 2º semestre). <br>
 <strong>Idioma:</strong> Português (fluente) e Inglês (avançado). <br>
 <strong>Cidade:</strong> Goiânia - GO. <br>
-<strong>Linguagens:</strong> HTML,CSS, JavaScript e PHP. <br>
+<strong>Linguagens:</strong> HTML,CSS, JavaScript, PHP e PL/SQL. <br>
 <strong>E-mail:</strong> joubert.kjc@gmail.com
 
 ##
