@@ -12,7 +12,7 @@ Especializando em desenvolvimento, buscando a área de web/mobile e futuramente 
 
 <h3>Informações gerais</h3> <br>
 
-<strong>Graduação:</strong> Análise e Desenvolvimento de Sistemas ~ Estácio (cursando 2º semestre). <br>
+<strong>Graduação:</strong> Análise e Desenvolvimento de Sistemas ~ Estácio (cursando 3º semestre). <br>
 <strong>Idioma:</strong> Português (fluente) e Inglês (avançado). <br>
 <strong>Cidade:</strong> Goiânia - GO. <br>
 <strong>Linguagens:</strong> HTML,CSS, JavaScript, PHP e PL/SQL. <br>
