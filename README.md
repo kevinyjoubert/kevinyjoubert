@@ -1,48 +1,84 @@
-<h1 align="center">System.out.printl("Joubert Keviny!"); 👋</h1>
+<h1 align="center">System.out.println("Olá, eu sou o Joubert Keviny 👋");</h1>
 
-<br>
+<p align="center">
+  <em>Desenvolvedor de Sistemas | Full Stack & Back-end | Visionário em tecnologia</em>
+</p>
 
-<a href="https://www.linkedin.com/in/keviny-joubert-2992b8b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
 
-Eu estou atualmente trabalhando como Analista de Sistemas na parte de back-end (PHP, PL/SQL, Python e JavaScript). Trabalhei 6 anos como técnico de TI, na parte de microcomputadores, suporte a sistemas e desenvolvimento de batch, vbs e planilhas.
+## 🚀 Sobre mim  
 
-Especializando em desenvolvimento, buscando a área de web/mobile e futuramente abrangir o leque de conhecimento para devops!
+Sou **Desenvolvedor de Software Pleno**, apaixonado por criar soluções que transformam ideias em sistemas reais.  
+Minha jornada começou com manutenção de TI e automações em batch/vbs, mas evoluí para **arquiteturas web, APIs robustas, integrações complexas e experiências digitais modernas**.  
 
-##
+Hoje meu foco é **Java (8, 17 e 21), PL/SQL, React, AngularJS e Tailwind**, construindo desde **APIs performáticas** até **interfaces fluidas**.  
+Tenho experiência em **integrações com ERP (Sankhya)**, **containers Docker**, **dashboards customizados**, e adoro buscar **padrões inteligentes de reuso de código**.
 
-<h3>Informações gerais</h3> <br>
+⚡ Minha filosofia: nenhuma tecnologia deve ser apagada — todas têm seu valor. O prazer está em programar.
 
-<strong>Graduação:</strong> Análise e Desenvolvimento de Sistemas ~ Estácio (cursando 3º semestre). <br>
-<strong>Idioma:</strong> Português (fluente) e Inglês (avançado). <br>
-<strong>Cidade:</strong> Goiânia - GO. <br>
-<strong>Linguagens:</strong> HTML,CSS, JavaScript, PHP e PL/SQL. <br>
-<strong>E-mail:</strong> joubert.kjc@gmail.com
+---
 
-##
+## 🛠️ Tecnologias & Ferramentas  
 
-<h3>Projetos</h3><br>
+**Back-end:**  
+- Java (8, 17, 21), Spring Boot, JPA/Hibernate  
+- PL/SQL (Oracle), MySQL, SQL Server  
+- Integrações com ERP (Sankhya, iReport, JSP)  
 
-<a href="https://github.com/kevinyjoubert/Parallax-images"><strong>Parallax Images</strong></a> - Projeto desenvolvido para ser um site de apresentação de fotos/eventos e divulgações. <br>
-<a href="https://github.com/kevinyjoubert/Scripts"><strong>Scripts</strong></a> - Batchs, Vbscripts e Shell feitos para automatizar tarefas no Linux/Windows. <br>
-<a href="https://github.com/kevinyjoubert"><strong>Intranet</strong></a> - Projeto feito inserindo um visual com link's rápidos para ser uma alternativa a barra de favoritos e com tutorial de aberturas de chamados na empresa onde trabalho atualmente _(repositório indisponível no momento até a remoção de links sensiveis no projeto final)._ <br>
-<a href="https://github.com/kevinyjoubert"><strong>Count</strong></a> - Site desenvolvido com a idéia inicial de facilitar a contagem de equipamentos, onde o mesmo é lido por um barcode e confirmado quais ainda restam para conferir.
+**Front-end:**  
+- React + Vite + Tailwind  
+- AngularJS (Angular 1)  
+- HTML5, CSS3 (SCSS/Tailwind)  
 
-##
+**Infra & Outros:**  
+- Docker & Containers  
+- Git/GitHub, Gitflow  
+- IntelliJ IDEA, DBeaver  
+- Automatizações com scripts  
 
-<h3>Interesses</h3> <br>
+---
 
-Amante de conhecimento e atualmente da área de desenvolvimento, estou sempre em busca de adquirir conhecimento e formas de melhorar tudo ao meu redor.
+## 📌 Projetos em destaque  
 
-##
+🔹 **Cardápio Digital para Restaurantes**  
+Aplicativo (tablet/PWA) com backend em Java + Oracle e frontend em React/Tailwind.  
+Funcionalidades: pedidos em tempo real para a cozinha, chamada de garçom, divisão de conta, fidelidade via CPF e painel administrativo.
 
-<h3 align="center">Quadro de análise de perfil</h3>
+🔹 **Módulo de Descontos Sankhya (Delphi + Java)**  
+Regras de negócio avançadas para aplicação de descontos, validações e integração entre **Delphi, PL/SQL e serviços em Java**.
+
+🔹 **Framework de Operações Jape**  
+Criação de uma função genérica para **insert/update dinâmicos com Jape**, com reaproveitamento e padronização de lógica.
+
+🔹 **Projetos de Estudos e Automação**  
+Scripts de automação, dashboards, extensões IntelliJ e ferramentas em Kotlin para facilitar geração de XML/SQL.
+
+---
+
+## 🎯 Interesses  
+
+- Arquitetura de software inteligente  
+- DevOps & Containers  
+- UI/UX moderna com React e Tailwind  
+- Sistemas ERP e integrações  
+- Aprender constantemente (sim, até Delphi entrou na jogada 😅)  
+
+---
+
+## 📊 GitHub Analytics  
 
 <div align="center">
-  <!-- github stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinyjoubert&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-  <!-- most used languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinyjoubert&layout=compact&langs_count=10&bg_color=151515&icon_color=bb2acf&text_color=daf7dc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinyjoubert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinyjoubert&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 
+---
 
+## 📫 Onde me encontrar  
+
+<a href="https://www.linkedin.com/in/keviny-joubert-2992b8b1/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>  
+📧 **E-mail:** joubert.kjc@gmail.com  
+
+---
